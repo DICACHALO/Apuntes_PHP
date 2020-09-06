@@ -6,5 +6,7 @@
 * Extensiones PHP
 * Gestor BBDD: MySQL - POSTGRESQL
 
+Bundel o paquete: XAMPP - WAMP - EASYPHP
+
 
 
