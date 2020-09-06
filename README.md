@@ -1,3 +1,5 @@
+Ver el texto en: https://dicachalo.gitbook.io/apuntes-php/
+
 # CONFIGURACIÓN DEL ENTORNO
 
 ## SOFTWARE NECESARIO
